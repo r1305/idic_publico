@@ -114,7 +114,7 @@
                         <h4 class="modal-title">Ingrese sus Datos</h4>
                     </div>
                     <div class="modal-body">
-                        <form role="form" action="s01">
+                        <form role="form" action="Login">
                             <div class="form-group">
                                 <label for="user">Usuario:</label>
                                 <input type="text" class="form-control" id="user" name="user">
